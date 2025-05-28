@@ -3,6 +3,7 @@ Welcome to the Sonar vs Mine Data Classifier! 🪨⚓ This project uses machine 
 
 🧠 Tech Stack & Tools
 🐍 Python
+
 📊 Pandas, NumPy
 
 📈 Scikit-learn

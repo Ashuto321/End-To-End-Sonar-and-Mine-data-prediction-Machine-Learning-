@@ -2,6 +2,7 @@
 
 Welcome to the Sonar vs Mine Data Classifier! 🪨⚓ This project uses machine learning to classify whether an object is a mine or a rock based on sonar signals. The entire ML pipeline is built from scratch — from data preprocessing to model deployment. 🚀
 
+
 🧠 Tech Stack & Tools
 🐍 Python
 
